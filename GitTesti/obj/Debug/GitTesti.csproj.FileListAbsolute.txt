@@ -5,3 +5,10 @@ C:\Users\mikae\source\repos\GitTesti\GitTesti\obj\Debug\GitTesti.csprojResolveAs
 C:\Users\mikae\source\repos\GitTesti\GitTesti\obj\Debug\GitTesti.csproj.CoreCompileInputs.cache
 C:\Users\mikae\source\repos\GitTesti\GitTesti\obj\Debug\GitTesti.exe
 C:\Users\mikae\source\repos\GitTesti\GitTesti\obj\Debug\GitTesti.pdb
+C:\Temp\Git\UusiGitTesti\GitTesti\GitTesti\bin\Debug\GitTesti.exe.config
+C:\Temp\Git\UusiGitTesti\GitTesti\GitTesti\bin\Debug\GitTesti.exe
+C:\Temp\Git\UusiGitTesti\GitTesti\GitTesti\bin\Debug\GitTesti.pdb
+C:\Temp\Git\UusiGitTesti\GitTesti\GitTesti\obj\Debug\GitTesti.csprojResolveAssemblyReference.cache
+C:\Temp\Git\UusiGitTesti\GitTesti\GitTesti\obj\Debug\GitTesti.csproj.CoreCompileInputs.cache
+C:\Temp\Git\UusiGitTesti\GitTesti\GitTesti\obj\Debug\GitTesti.exe
+C:\Temp\Git\UusiGitTesti\GitTesti\GitTesti\obj\Debug\GitTesti.pdb

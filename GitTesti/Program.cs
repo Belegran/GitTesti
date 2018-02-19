@@ -14,6 +14,7 @@ namespace GitTesti
             {
                 Console.WriteLine("Hello World");
             }
+            Console.WriteLine("Muutoksia githubia varten");
         }
     }
 }
