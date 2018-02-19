@@ -1,0 +1,7 @@
+C:\Users\mikae\source\repos\GitTesti\GitTesti\bin\Debug\GitTesti.exe.config
+C:\Users\mikae\source\repos\GitTesti\GitTesti\bin\Debug\GitTesti.exe
+C:\Users\mikae\source\repos\GitTesti\GitTesti\bin\Debug\GitTesti.pdb
+C:\Users\mikae\source\repos\GitTesti\GitTesti\obj\Debug\GitTesti.csprojResolveAssemblyReference.cache
+C:\Users\mikae\source\repos\GitTesti\GitTesti\obj\Debug\GitTesti.csproj.CoreCompileInputs.cache
+C:\Users\mikae\source\repos\GitTesti\GitTesti\obj\Debug\GitTesti.exe
+C:\Users\mikae\source\repos\GitTesti\GitTesti\obj\Debug\GitTesti.pdb
